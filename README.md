@@ -1,5 +1,7 @@
 # 星岛梦机场怎么样?2026 深度测评:套餐价格 · 测速解锁 · 配置教程
 
+
+[![GitHub stars](https://img.shields.io/github/stars/jichangx/xingdaomeng-jichang?style=flat&logo=github&color=00e676&label=Stars)](https://github.com/jichangx/xingdaomeng-jichang/stargazers) [![最近更新](https://img.shields.io/github/last-commit/jichangx/xingdaomeng-jichang?color=00b0ff&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)](https://github.com/jichangx/xingdaomeng-jichang/commits/main) [![完整测评](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E6%B5%8B%E8%AF%84-jichangcha.com-00e676)](https://www.jichangcha.com/brands/xingdaomeng/)
 ![星岛梦机场全解析](images/banner.svg)
 
 **星岛梦**是运营六年的老牌机场,主打**企业级内网专线、无倍率、不限设备数**,套餐种类在同行里最丰富(含永久不限时套餐)。在本站 [2026 机场排行榜](https://www.jichangcha.com/blog/2026-jichang-paihangbang/) 16 家实测中位列 **🥈 次推 No.2**,是「求稳、打算长期用」用户的默认答案。
